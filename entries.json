@@ -478,15 +478,5 @@
     "description": "I2I Challenge",
     "amountRaw": "$1,018.00",
     "month": "August"
-  },
-  {
-    "date": "2026-09-16",
-    "type": "Earnings",
-    "entity": "Tax Filing",
-    "clientName": "TEST",
-    "category": "Test",
-    "description": "DELETE ME - write path test",
-    "amountRaw": "$1.00",
-    "month": "September"
   }
 ]
