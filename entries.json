@@ -1,0 +1,482 @@
+[
+  {
+    "date": "2026-05-23",
+    "type": "Earnings",
+    "entity": "Tax Filing",
+    "clientName": "Tax (Upscale)",
+    "category": "Received",
+    "description": "YTD as of May 23 2026",
+    "amountRaw": "$82,787.50",
+    "month": "May"
+  },
+  {
+    "date": "2026-05-23",
+    "type": "Earnings",
+    "entity": "Sales Coaching",
+    "clientName": "Sales Coaching",
+    "category": "Received",
+    "description": "YTD as of May 23 2026",
+    "amountRaw": "$9,055.00",
+    "month": "May"
+  },
+  {
+    "date": "2026-05-23",
+    "type": "Earnings",
+    "entity": "Sales Coaching",
+    "clientName": "Sales Closing (I2I)",
+    "category": "Received",
+    "description": "YTD as of May 23 2026",
+    "amountRaw": "$8,455.00",
+    "month": "May"
+  },
+  {
+    "date": "2026-05-23",
+    "type": "Earnings",
+    "entity": "WF Solutions",
+    "clientName": "EXECORE (VA)",
+    "category": "Received",
+    "description": "YTD as of May 23 2026",
+    "amountRaw": "$600.00",
+    "month": "May"
+  },
+  {
+    "date": "2026-01-05",
+    "type": "Expense",
+    "entity": "Utilities",
+    "clientName": "Issacar Jean-Simon",
+    "category": "House Rent",
+    "description": "Personal expense",
+    "amountRaw": "$1,495.00",
+    "month": "January"
+  },
+  {
+    "date": "2026-02-05",
+    "type": "Expense",
+    "entity": "Utilities",
+    "clientName": "Issacar Jean-Simon",
+    "category": "House Rent",
+    "description": "Personal expense",
+    "amountRaw": "$1,495.00",
+    "month": "February"
+  },
+  {
+    "date": "2026-03-05",
+    "type": "Expense",
+    "entity": "Utilities",
+    "clientName": "Issacar Jean-Simon",
+    "category": "House Rent",
+    "description": "Personal expense",
+    "amountRaw": "$1,495.00",
+    "month": "March"
+  },
+  {
+    "date": "2026-04-05",
+    "type": "Expense",
+    "entity": "Utilities",
+    "clientName": "Issacar Jean-Simon",
+    "category": "House Rent",
+    "description": "Personal expense",
+    "amountRaw": "$1,495.00",
+    "month": "April"
+  },
+  {
+    "date": "2026-05-05",
+    "type": "Expense",
+    "entity": "Utilities",
+    "clientName": "Issacar Jean-Simon",
+    "category": "House Rent",
+    "description": "Personal expense",
+    "amountRaw": "$1,495.00",
+    "month": "May"
+  },
+  {
+    "date": "2026-05-15",
+    "type": "Expense",
+    "entity": "Expense",
+    "clientName": "Carrington",
+    "category": "VA Placement Fee",
+    "description": "50% retainer",
+    "amountRaw": "$850.00",
+    "month": "May"
+  },
+  {
+    "date": "2026-05-18",
+    "type": "Expense",
+    "entity": "Expense",
+    "clientName": "Carrington",
+    "category": "VA Placement Fee",
+    "description": "50% remaining balance",
+    "amountRaw": "$850.00",
+    "month": "May"
+  },
+  {
+    "date": "2026-01-31",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "",
+    "amountRaw": "$440.00",
+    "month": "January"
+  },
+  {
+    "date": "2026-02-28",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "",
+    "amountRaw": "$440.00",
+    "month": "February"
+  },
+  {
+    "date": "2026-03-31",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "",
+    "amountRaw": "$440.00",
+    "month": "March"
+  },
+  {
+    "date": "2026-04-30",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "",
+    "amountRaw": "$740.00",
+    "month": "April"
+  },
+  {
+    "date": "2026-05-31",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "",
+    "amountRaw": "$740.00",
+    "month": "May"
+  },
+  {
+    "date": "2026-06-02",
+    "type": "Expense",
+    "entity": "Travel",
+    "clientName": "",
+    "category": "Air Ticket",
+    "description": "Trip to Boston",
+    "amountRaw": "$300.00",
+    "month": "June"
+  },
+  {
+    "date": "2026-06-01",
+    "type": "Expense",
+    "entity": "Utilities",
+    "clientName": "Production Improvement",
+    "category": "Equipment",
+    "description": "Mac Mini",
+    "amountRaw": "$550.00",
+    "month": "June"
+  },
+  {
+    "date": "2026-06-04",
+    "type": "Earnings",
+    "entity": "Tax Filing",
+    "clientName": "Tax (Upscale)",
+    "category": "Received",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$200.00",
+    "month": "June"
+  },
+  {
+    "date": "2026-06-06",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "",
+    "amountRaw": "$270.00",
+    "month": "June"
+  },
+  {
+    "date": "6/5/2026",
+    "type": "Expense",
+    "entity": "Utilities",
+    "clientName": "Issacar Jean-Simon",
+    "category": "House Rent",
+    "description": "Personal expense",
+    "amountRaw": "$1,301.00",
+    "month": "June"
+  },
+  {
+    "date": "6/16/2026",
+    "type": "Earnings",
+    "entity": "WF Solutions",
+    "clientName": "Cassandra",
+    "category": "WFS Earnings",
+    "description": "WFS Received",
+    "amountRaw": "$400.00",
+    "month": "June"
+  },
+  {
+    "date": "6/16/2026",
+    "type": "Expense",
+    "entity": "Expense",
+    "clientName": "Carrington",
+    "category": "AI Bot",
+    "description": "Deposit",
+    "amountRaw": "$3,500.00",
+    "month": "June"
+  },
+  {
+    "date": "6/17/2026",
+    "type": "Expense",
+    "entity": "Utilities",
+    "clientName": "Production Improvement",
+    "category": "Equipment",
+    "description": "Mac Mini Peripherals",
+    "amountRaw": "$258.00",
+    "month": "June"
+  },
+  {
+    "date": "6/17/2026",
+    "type": "Expense",
+    "entity": "Utilities",
+    "clientName": "Production Improvement",
+    "category": "Equipment",
+    "description": "Macbook",
+    "amountRaw": "$860.00",
+    "month": "June"
+  },
+  {
+    "date": "6/17/2026",
+    "type": "Expense",
+    "entity": "Expense",
+    "clientName": "Personal",
+    "category": "Personal",
+    "description": "Clothing",
+    "amountRaw": "$180.00",
+    "month": "June"
+  },
+  {
+    "date": "6/19/2026",
+    "type": "Earnings",
+    "entity": "Sales Coaching",
+    "clientName": "Sales Closing (I2I)",
+    "category": "Received",
+    "description": "i2i Commission",
+    "amountRaw": "$1,830.00",
+    "month": "June"
+  },
+  {
+    "date": "6/22/2026",
+    "type": "Earnings",
+    "entity": "Tax Filing",
+    "clientName": "Tax (Upscale)",
+    "category": "Received",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$300.00",
+    "month": "June"
+  },
+  {
+    "date": "6/25/2026",
+    "type": "Earnings",
+    "entity": "Tax Filing",
+    "clientName": "Jeff Desruisseax",
+    "category": "Received",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$360.00",
+    "month": "June"
+  },
+  {
+    "date": "6/30/2026",
+    "type": "Earnings",
+    "entity": "Sales Coaching",
+    "clientName": "Kori's Challenge",
+    "category": "Sales Closing",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$4,400.00",
+    "month": "June"
+  },
+  {
+    "date": "7/2/2026",
+    "type": "Earnings",
+    "entity": "Sales Coaching",
+    "clientName": "Payment from i2i",
+    "category": "Sales Closing",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$675.00",
+    "month": "July"
+  },
+  {
+    "date": "7/5/2026",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "",
+    "amountRaw": "$550.00",
+    "month": "July"
+  },
+  {
+    "date": "7/5/2026",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "",
+    "amountRaw": "$64.00",
+    "month": "July"
+  },
+  {
+    "date": "7/13/2026",
+    "type": "Expense",
+    "entity": "Expense",
+    "clientName": "Carrington",
+    "category": "AI Bot",
+    "description": "",
+    "amountRaw": "$1,000.00",
+    "month": "July"
+  },
+  {
+    "date": "7/13/2026",
+    "type": "Expense",
+    "entity": "Expense",
+    "clientName": "GHL",
+    "category": "Subscription",
+    "description": "",
+    "amountRaw": "$97.00",
+    "month": "July"
+  },
+  {
+    "date": "7/16/2026",
+    "type": "Earnings",
+    "entity": "Others",
+    "clientName": "Unspecified",
+    "category": "Unspecified",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$10,000.00",
+    "month": "July"
+  },
+  {
+    "date": "7/17/2026",
+    "type": "Earnings",
+    "entity": "Others",
+    "clientName": "Unspecified",
+    "category": "Unspecified",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$349.00",
+    "month": "July"
+  },
+  {
+    "date": "7/17/2026",
+    "type": "Earnings",
+    "entity": "WF Solutions",
+    "clientName": "Cassandra",
+    "category": "WFS Earnings",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$400.00",
+    "month": "July"
+  },
+  {
+    "date": "7/17/2026",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "",
+    "amountRaw": "$742.00",
+    "month": "July"
+  },
+  {
+    "date": "7/21/2026",
+    "type": "Expense",
+    "entity": "Expense",
+    "clientName": "Carrington",
+    "category": "AI Bot",
+    "description": "",
+    "amountRaw": "$2,000.00",
+    "month": "July"
+  },
+  {
+    "date": "7/21/2026",
+    "type": "Expense",
+    "entity": "Others",
+    "clientName": "Production Improvement",
+    "category": "Video Shoot (studio)",
+    "description": "",
+    "amountRaw": "$1,200.00",
+    "month": "July"
+  },
+  {
+    "date": "7/27/2026",
+    "type": "Earnings",
+    "entity": "Tax Filing",
+    "clientName": "Tax (Upscale)",
+    "category": "Received",
+    "description": "Notified during Zoom team meeting",
+    "amountRaw": "$2,580.00",
+    "month": "July"
+  },
+  {
+    "date": "08/15/2026",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$636.00",
+    "month": "August"
+  },
+  {
+    "date": "8/6/2026",
+    "type": "Earnings",
+    "entity": "Challenge Earnings",
+    "clientName": "I2I",
+    "category": "Commission",
+    "description": "Shariff and Christian Challenge",
+    "amountRaw": "$2,636.49",
+    "month": "August"
+  },
+  {
+    "date": "8/22/2026",
+    "type": "Earnings",
+    "entity": "Challenge Earnings",
+    "clientName": "I2I",
+    "category": "Commission",
+    "description": "I2I Challenge (July)",
+    "amountRaw": "$342.00",
+    "month": "August"
+  },
+  {
+    "date": "8/28/2026",
+    "type": "Expense",
+    "entity": "Salary",
+    "clientName": "JSG Assistants",
+    "category": "Salary Payments",
+    "description": "Notified via Whatsapp GC",
+    "amountRaw": "$860.00",
+    "month": "August"
+  },
+  {
+    "date": "8/31/2026",
+    "type": "Earnings",
+    "entity": "Challenge Earnings",
+    "clientName": "I2I",
+    "category": "Commission",
+    "description": "I2I Challenge",
+    "amountRaw": "$2,000.00",
+    "month": "August"
+  },
+  {
+    "date": "9/16/2026",
+    "type": "Earnings",
+    "entity": "Challenge Earnings",
+    "clientName": "I2I",
+    "category": "Commission",
+    "description": "I2I Challenge",
+    "amountRaw": "$1,018.00",
+    "month": "August"
+  }
+]
