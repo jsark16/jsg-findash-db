@@ -478,5 +478,15 @@
     "description": "I2I Challenge",
     "amountRaw": "$1,018.00",
     "month": "August"
+  },
+  {
+    "date": "2026-09-30",
+    "type": "Earnings",
+    "entity": "Challenge Earnings",
+    "clientName": "I2I",
+    "category": "Commission",
+    "description": "I2I Challenge",
+    "amountRaw": "$400.00",
+    "month": "September"
   }
 ]
