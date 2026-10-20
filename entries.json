@@ -508,5 +508,15 @@
     "description": "VOID · PMT-0001 · Invoice JSG-0010 reversed — Test entry only",
     "amountRaw": "$-200.00",
     "month": "October"
+  },
+  {
+    "date": "2026-10-20",
+    "type": "Expense",
+    "entity": "Bill Payment",
+    "clientName": "ZZZ Test Vendor TESTPB-1792534483664",
+    "category": "Software and Subscriptions",
+    "description": "BPMT-0001 · Bill TESTPB-1792534483664 ← Wise Account · Ref TESTREF1 · PARTIAL ($80.00 remaining)",
+    "amountRaw": "$120.00",
+    "month": "October"
   }
 ]
