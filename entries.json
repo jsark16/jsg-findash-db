@@ -508,5 +508,15 @@
     "description": "VOID · PMT-0001 · Invoice JSG-0010 reversed — Test entry only",
     "amountRaw": "$-200.00",
     "month": "October"
+  },
+  {
+    "date": "2026-10-01",
+    "type": "Expense",
+    "entity": "Bill",
+    "clientName": "ZZZ Vendor TESTPB-1792534894605",
+    "category": "Software and Subscriptions",
+    "description": "Bill TESTPB-1792534894605 entered · Dr Software and Subscriptions / Cr Accounts Payable (2000)",
+    "amountRaw": "$200.00",
+    "month": "October"
   }
 ]
