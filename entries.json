@@ -508,15 +508,5 @@
     "description": "VOID · PMT-0001 · Invoice JSG-0010 reversed — Test entry only",
     "amountRaw": "$-200.00",
     "month": "October"
-  },
-  {
-    "date": "2026-10-20",
-    "type": "Expense",
-    "entity": "Bill Payment",
-    "clientName": "ZZZ LEGACY-1792535086125",
-    "category": "Professional Fees",
-    "description": "BPMT-TEST · Bill LEGACY-1792535086125 ← Business Bank Account · Ref L1",
-    "amountRaw": "$100.00",
-    "month": "October"
   }
 ]
