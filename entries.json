@@ -488,5 +488,15 @@
     "description": "I2I Challenge",
     "amountRaw": "$400.00",
     "month": "September"
+  },
+  {
+    "date": "2026-10-20",
+    "type": "Earnings",
+    "entity": "Invoice Payment",
+    "clientName": "Kori Haggie",
+    "category": "Income",
+    "description": "PMT-0001 · Invoice JSG-0010 → Business Bank Account · Ref 1234",
+    "amountRaw": "$200.00",
+    "month": "October"
   }
 ]
