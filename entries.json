@@ -528,5 +528,15 @@
     "description": "Bill TESTPB-1792534894605 · Cr Accounts Payable (2000)",
     "amountRaw": "$200.00",
     "month": "October"
+  },
+  {
+    "date": "2026-10-20",
+    "type": "Balance",
+    "entity": "Bill Payment",
+    "clientName": "ZZZ Vendor TESTPB-1792534894605",
+    "category": "Accounts Payable",
+    "description": "BPMT-0001 · Bill TESTPB-1792534894605 · Dr Accounts Payable (2000)",
+    "amountRaw": "$-120.00",
+    "month": "October"
   }
 ]
