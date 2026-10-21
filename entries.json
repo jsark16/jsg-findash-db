@@ -50,5 +50,37 @@
     "debit": 0,
     "credit": 200,
     "source": "invoice"
+  },
+  {
+    "date": "2026-10-20",
+    "type": "Earnings",
+    "entity": "Other Service Income",
+    "clientName": "Kori Haggie",
+    "category": "Other Service Income",
+    "description": "Reverse orphaned test accrual — Invoice JSG-0010 deleted (test data, voided 10/20/2026)",
+    "amountRaw": "-$200.00",
+    "month": "October",
+    "txnId": "INV-JSG-0010-VOID",
+    "accountCode": "4090",
+    "accountName": "Other Service Income",
+    "debit": 200,
+    "credit": 0,
+    "source": "manual-reversal"
+  },
+  {
+    "date": "2026-10-20",
+    "type": "Balance",
+    "entity": "Accounts Receivable",
+    "clientName": "Kori Haggie",
+    "category": "Accounts Receivable",
+    "description": "Reverse orphaned test accrual — Invoice JSG-0010 deleted (test data, voided 10/20/2026)",
+    "amountRaw": "-$200.00",
+    "month": "October",
+    "txnId": "INV-JSG-0010-VOID",
+    "accountCode": "1200",
+    "accountName": "Accounts Receivable",
+    "debit": 0,
+    "credit": 200,
+    "source": "manual-reversal"
   }
 ]
