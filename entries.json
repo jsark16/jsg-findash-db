@@ -82,5 +82,15 @@
     "debit": 0,
     "credit": 200,
     "source": "manual-reversal"
+  },
+  {
+    "date": "2026-11-21",
+    "type": "Expense",
+    "entity": "Google",
+    "clientName": "",
+    "category": "Other",
+    "description": "Storage [Checking]",
+    "amountRaw": "$150.00",
+    "month": "November"
   }
 ]
