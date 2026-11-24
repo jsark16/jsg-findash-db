@@ -92,5 +92,15 @@
     "description": "Storage [Checking]",
     "amountRaw": "$150.00",
     "month": "November"
+  },
+  {
+    "date": "2026-11-24",
+    "type": "Expense",
+    "entity": "Bot Access",
+    "clientName": "",
+    "category": "Software & Subscriptions",
+    "description": "JS Ark bot access [Wise]",
+    "amountRaw": "$200.00",
+    "month": "November"
   }
 ]
