@@ -88,7 +88,7 @@
     "type": "Expense",
     "entity": "Google",
     "clientName": "",
-    "category": "Other",
+    "category": "Software & Subscriptions",
     "description": "Storage [Checking]",
     "amountRaw": "$150.00",
     "month": "November"
@@ -112,5 +112,37 @@
     "description": "Crosslink [Checking]",
     "amountRaw": "$300.00",
     "month": "November"
+  },
+  {
+    "date": "10/16/2026",
+    "type": "Balance",
+    "entity": "Accounts Receivable",
+    "clientName": "Benders Enterprise LLC",
+    "category": "Accounts Receivable",
+    "description": "Invoice JSG-005 issued · Benders Enterprise LLC",
+    "amountRaw": "$1,700.00",
+    "month": "October",
+    "txnId": "INV-JSG-005",
+    "accountCode": "1200",
+    "accountName": "Accounts Receivable",
+    "debit": 1700,
+    "credit": 0,
+    "source": "invoice"
+  },
+  {
+    "date": "10/16/2026",
+    "type": "Earnings",
+    "entity": "Webinars/Sales Closing Revenue",
+    "clientName": "Benders Enterprise LLC",
+    "category": "Webinars/Sales Closing Revenue",
+    "description": "Invoice JSG-005 · revenue recognized",
+    "amountRaw": "$1,700.00",
+    "month": "October",
+    "txnId": "INV-JSG-005",
+    "accountCode": "4020",
+    "accountName": "Webinars/Sales Closing Revenue",
+    "debit": 0,
+    "credit": 1700,
+    "source": "invoice"
   }
 ]
