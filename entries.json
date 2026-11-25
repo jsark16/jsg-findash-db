@@ -102,5 +102,15 @@
     "description": "JS Ark bot access [Wise]",
     "amountRaw": "$200.00",
     "month": "November"
+  },
+  {
+    "date": "2026-11-24",
+    "type": "Expense",
+    "entity": "Tax Software",
+    "clientName": "",
+    "category": "Professional Fees",
+    "description": "Crosslink [Checking]",
+    "amountRaw": "$300.00",
+    "month": "November"
   }
 ]
