@@ -154,5 +154,37 @@
     "description": "PMT-0002 · Invoice JSG-007 → Wise Account · PARTIAL ($1200.00 remaining)",
     "amountRaw": "$1,887.50",
     "month": "November"
+  },
+  {
+    "date": "2026-11-25",
+    "type": "Balance",
+    "entity": "Wise Account",
+    "clientName": "Benders Enterprise LLC",
+    "category": "Wise Account",
+    "description": "PMT-0003 · Invoice JSG-005 · received into Wise Account",
+    "amountRaw": "$1,700.00",
+    "month": "November",
+    "txnId": "IPMT-pmt_1795653576074_cw7oz",
+    "accountCode": "1010",
+    "accountName": "Wise Account",
+    "debit": 1700,
+    "credit": 0,
+    "source": "invoice-payment"
+  },
+  {
+    "date": "2026-11-25",
+    "type": "Balance",
+    "entity": "Accounts Receivable",
+    "clientName": "Benders Enterprise LLC",
+    "category": "Accounts Receivable",
+    "description": "PMT-0003 · Invoice JSG-005 · settle Accounts Receivable",
+    "amountRaw": "-$1,700.00",
+    "month": "November",
+    "txnId": "IPMT-pmt_1795653576074_cw7oz",
+    "accountCode": "1200",
+    "accountName": "Accounts Receivable",
+    "debit": 0,
+    "credit": 1700,
+    "source": "invoice-payment"
   }
 ]
