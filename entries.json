@@ -144,5 +144,15 @@
     "debit": 0,
     "credit": 1700,
     "source": "invoice"
+  },
+  {
+    "date": "2026-11-25",
+    "type": "Earnings",
+    "entity": "Invoice Payment",
+    "clientName": "Benders Enterprise LLC",
+    "category": "Income",
+    "description": "PMT-0002 · Invoice JSG-007 → Wise Account · PARTIAL ($1200.00 remaining)",
+    "amountRaw": "$1,887.50",
+    "month": "November"
   }
 ]
